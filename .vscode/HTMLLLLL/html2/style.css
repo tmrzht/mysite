@@ -1,0 +1,13 @@
+p {
+    padding: 15px;
+    margin: 15px;
+}
+
+.custom-class {
+    background-color: cadetblue;
+    border: 4px double black;
+}
+
+#custom-id {
+    background-color: skyblue
+    border: 4px outset #afdeff

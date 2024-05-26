@@ -1,0 +1,41 @@
+h2 {
+  margin: auto;
+}
+div {
+  margin-top: 2px;
+
+  text-align: center;
+}
+#container {
+  width: auto;
+}
+#header {
+  background: #afdeff;
+  height: 150px;
+}
+#navigation {
+  background: #afdeff;
+  height: 40px;
+}
+#content {
+  background: #afdeff;
+  float: left;
+  width: 75%;
+  height: 250px;
+}
+ #sidebar {
+  background:#33CAFF;
+  float: right;
+  width: 25%;
+  height: 250px;
+}
+
+#clear {
+  clear: both;
+}
+
+#footer {
+  margin-top: 4px;
+  background: #75c9d8;
+  height: 150px;
+}
